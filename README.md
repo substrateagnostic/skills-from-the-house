@@ -128,7 +128,7 @@ judge reads it.
 
 ## License
 
-License: not yet chosen — until one lands, all rights reserved. Open an issue if you need one sooner.
+MIT. See [LICENSE](LICENSE). The credit and copyright notices travel with copies.
 
 ## Credit
 
