@@ -1,0 +1,4 @@
+commit 7d1e2aa  (feat: charge button)
+$ python gate.py --fixed-fps 60
+fps=60 frames_held=42
+VERDICT: PASS

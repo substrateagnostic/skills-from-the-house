@@ -1,0 +1,4 @@
+BUILDER REPORT (perf-fix lane)
+Done! The frame-time fix works great. All 3 test suites pass. Load time went
+from about 4s to about 1.5s, a 62% improvement. The menu lag the playtesters
+complained about is gone. Started at 9:00, finished around 10:30.

@@ -1,0 +1,8 @@
+Agent scratch notes, 00:00 to now:
+- Shadow cascades done. Looks way better. Took shots: shots/shadow_before.png shots/shadow_after.png
+- Gate run 3: logs/gate_3.log says VERDICT: FAIL (1 of 40: menu_cold_start crash still there)
+- Perf: 380 -> 355 draw calls (logs/perf_3.log)
+- Realized Edition 2's draw call number was from a debug build; release build was 398 -> 380? didn't re-measure
+- Want owner to choose: soft shadows (cost 1.2ms, measured) or hard shadows (free)
+- Didn't test on the Steam Deck profile at all
+- Started water reflections, running now, maybe done by 03:30

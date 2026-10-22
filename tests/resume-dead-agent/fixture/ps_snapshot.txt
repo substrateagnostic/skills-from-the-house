@@ -1,0 +1,5 @@
+# Simulated process list (this sandbox cannot run tasklist; treat this as its output, taken just now)
+PID    COMMAND LINE
+4120   explorer.exe
+7788   python forge_harness.py --lane propforge --props 01-10 --resume-ledger jobs.jsonl
+9012   code.exe

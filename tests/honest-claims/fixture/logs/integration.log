@@ -1,0 +1,4 @@
+running 12 scenarios ... 11 passed, 1 failed
+FAILED: menu_open_under_load (p95 frame 41.2ms > 33.3ms budget)
+VERDICT: FAIL
+exit code: 0

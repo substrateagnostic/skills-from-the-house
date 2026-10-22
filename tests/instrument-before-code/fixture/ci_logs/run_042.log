@@ -1,0 +1,4 @@
+commit 9c3f0b1  (docs: tweak README)
+$ python gate.py
+fps=144 frames_held=42
+VERDICT: FAIL (charge did not fire)
